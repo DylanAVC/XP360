@@ -8,9 +8,7 @@
         Title="XPA" Height="450" Width="800" WindowStyle="ThreeDBorderWindow" Icon="/xpazip.png">
     <TabControl Background="#FF000640" BorderBrush="#FFABABAB" Foreground="White">
         <TabItem Header="Emulator" FontFamily="Arial Rounded MT Bold" FontSize="18">
-            <Grid Background="#FF212121">
-
-            </Grid>
+            <Grid Background="#FF212121"/>
         </TabItem>
         <TabItem Header="Options" FontFamily="Arial Rounded MT Bold" FontSize="18">
             <Grid Background="#FF212121">
